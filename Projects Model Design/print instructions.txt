@@ -1,0 +1,6 @@
+80% infill works great for both parts. See updated model, the lever can now be printed on its side to 
+optimize layer orientation as suggested by users. Print the connector with the face of the handlebar 
+mount flat on the build plate (see other picture). Connector designed to fit on a 0.875" diameter handle bar. 
+The handlebar mounting bolt is an M3 x 16. For the other hardware, anything that fits should be fine. 
+I recommend embedding two M3 square nuts during the print of the connector to ensure the M3 bolt stays put when 
+you do install on your bike.
